@@ -1,2 +1,4 @@
 # odium
-vrchat client source,
+---
+- Removed Auth
+- Ready to Release
